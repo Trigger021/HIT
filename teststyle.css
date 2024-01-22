@@ -1,0 +1,41 @@
+body{
+    background-color: #ff00c8;
+}
+form {
+    background-color: #960f7d;
+    color: whitesmoke;
+    border-radius: 10px;
+    margin: auto;
+    text-anchor: middle;
+    width: 30%;
+    padding: 50px ;
+}
+legend{
+    color: black;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 20px;
+}
+button{
+    width: 75%;
+    margin: 10px ;
+    border-radius: 7px ;
+    text-align: center;
+}
+input[text],input[number]{
+    border-radius: 7px ;
+    margin-left: 10px;
+    width: 100px ;
+}
+.lb{
+    margin-left:10px ;
+    float: left;
+}
+.imp{
+    margin-left: 10px;
+    float: right;
+    margin-right: 90px ;
+}
+.g{
+    display: inline-block;
+}
